@@ -9,14 +9,6 @@ body{
 	font-family: 'Patrick Hand', cursive;
 }
 
-@media only screen and (max-width: 767px) {
-  body {
-    /* The file size of this background image is 93% smaller
-       to improve page load speed on mobile internet connections */
-    background-image: url("tlo.jpg");
-  }
-}
-
 
 div.container{
 	width: 1140px;
